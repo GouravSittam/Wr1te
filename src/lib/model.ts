@@ -43,7 +43,7 @@ Emphasis priority: Bold > Italic when syntax conflicts
 Usage: Apply formatting to emphasize key concepts, technical terms, or important phrases`;
 
   // SYSTEM PROMPT
-  const systemPrompt = `You are an intelligent text completion AI for a markdown-based writing editor called "Wryte".
+  const systemPrompt = `You are an intelligent text completion AI for a markdown-based writing editor called "Wr1te".
 
 Current Node Type: ${node}
 

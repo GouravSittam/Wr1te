@@ -7,7 +7,7 @@ import { DM_Sans } from "next/font/google";
 const dmSans = DM_Sans({ subsets: ["latin"], variable: "--font-sans" });
 
 export const metadata: Metadata = {
-  title: "Wryte",
+  title: "Wr1te",
   description:
     "AI-powered writing assistant that helps you create high-quality content faster.",
 };

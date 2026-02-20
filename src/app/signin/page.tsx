@@ -51,7 +51,7 @@ function page() {
       <div className="p-2 z-50">
         <div className="px-14 py-8">
           <span className="text-5xl font-funnel font-semibold text-primary dark:text-primary">
-            Wryte.
+            Wr1te.
           </span>
         </div>
         <div className="flex justify-center mt-8">

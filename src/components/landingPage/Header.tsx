@@ -24,7 +24,7 @@ function Header() {
     >
       <div className="flex gap-2 items-center justify-center">
         <span className="text-2xl font-funnel font-semibold text-primary dark:text-primary">
-          Wryte.
+          Wr1te.
         </span>
       </div>
       <div className="flex w-fit justify-center items-center gap-6 text-sm font-medium">
